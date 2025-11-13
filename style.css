@@ -55,14 +55,12 @@ html{
     color: #fff;
     font-size: 18px;
     font-weight: 500;
-    margin-left: 25px;
     transition: color 0s ease;
-    padding: 5px 8px;
+    padding: 6px 15px;
+    border-radius: 30px;
 }
 .navbar .menu li a:hover{
-    padding: 5px 8px;
     border: 2px solid crimson;
-    transition: all 0.05s ease;
     color: crimson;
 }
 .navbar.sticky .menu li a:hover{
@@ -186,7 +184,7 @@ section .title::after{
     margin-top: 20px;
     border-radius: 60px;
     border: 2px solid crimson;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 }
 .home .home-content a:hover{
     color: crimson;
@@ -844,6 +842,7 @@ footer span a:hover{
 
 
 }
+
 
 
 
